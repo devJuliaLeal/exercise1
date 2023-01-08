@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+}
+
+.seção {
+  background-color: orange;
+  margin-left: 100px;
+  color: white;
+  padding-left: 20px;
+}
