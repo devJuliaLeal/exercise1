@@ -5,6 +5,7 @@ body {
 .seção {
   background-color: orange;
   margin-left: 110px;
+  margin-right: auto;
   color: white;
   padding-left: 20px;
   font-size: 18px;
