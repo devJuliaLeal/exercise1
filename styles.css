@@ -42,3 +42,15 @@ p {
 .links b {
   margin-bottom: 100px;
 }
+
+.corpo ul {
+  list-style: none;
+  padding: 0;
+
+}
+.corpo li {
+  line-height: 30px;
+}
+.corpo a {
+  color: #484848;
+}
