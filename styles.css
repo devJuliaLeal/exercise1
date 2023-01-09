@@ -1,5 +1,6 @@
 body {
   font-family: Arial;
+  margin-bottom: 50px;
 }
 
 .seção {
@@ -50,6 +51,7 @@ p {
 }
 .corpo li {
   line-height: 30px;
+  font-size: 18px;
 }
 .corpo a {
   color: #484848;
